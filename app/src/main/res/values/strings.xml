@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Select Language</string>
+    <string name="tv_country_name">Country Name</string>
+    <string name="select_language">Select Language</string>
+    <string name="restart">Restart</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_language_desc">change lang reverse</string>
+    <string name="change_language">change language</string>
+    <string name="change">Change</string>
+</resources>
